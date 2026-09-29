@@ -1,5 +1,5 @@
 def smoke_value():
-    return "c793a5bf-2741-4e9e-a000-49608f0db797"
+    return "386231b6-4fb1-4822-8b5d-c2980d7faa63"
 
 
 if __name__ == "__main__":
